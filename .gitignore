@@ -1,0 +1,16 @@
+# IDE files
+.idea/
+.vscode/
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Coursework submission document
+CSC8636_SummativeAssessment_SubmissionTable_karthikeyan_karuppaiah.docx
